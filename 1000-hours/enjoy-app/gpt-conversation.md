@@ -1,7 +1,7 @@
-# GPT 服务
+# GPT 服務
 
-当 AI 类型选择 `GPT` 时，AI 将会根据 `角色定义` 来回答你提出的所有问题。
+當 AI 型別選擇 `GPT` 時，AI 將會根據 `角色定義` 來回答你提出的所有問題。
 
-例如定义一个 `英语教练` 的角色，可以将你发的所有文字翻译成地道的英文表达，再配合 [TTS](./tts-conversation.md) 将其转化成语音，即可作为跟读的材料。
+例如定義一個 `英語教練` 的角色，可以將你發的所有文字翻譯成地道的英文表達，再配合 [TTS](./tts-conversation.md) 將其轉化成語音，即可作為跟讀的材料。
 
-详情可以参照使用案例：[利用 AI 生成训练材料](./use-case-generate-audio-resources.md)
+詳情可以參照使用案例：[利用 AI 生成訓練材料](./use-case-generate-audio-resources.md)

@@ -8,14 +8,14 @@
       <div
         class="slogan inline-block text-greyscale_2 text-[24px] md:text-[48px] px-6 md:px-12 lg:max-w-[800px]"
       >
-        用你的注意力填满一千小时就能练成任何你所需要的技能......
+        用你的注意力填滿一千小時就能練成任何你所需要的技能......
       </div>
     </div>
 
     <div
       class="hint flex justify-center text-greyscale_4 text-[14px] md:text-[18px]"
     >
-      与
+      與
       <span class="flex text-greyscale_1 mr-1">
         <img
           src="/portal-static/icon/enjoy-app.svg"
@@ -25,7 +25,7 @@
         />
         Enjoy App
       </span>
-      一起，享受这1000小时
+      一起，享受這1000小時
     </div>
 
     <div class="mt-6 max-sm:inline-flex max-sm:gap-4 max-sm:flex-col">
@@ -33,7 +33,7 @@
         <button
           class="action px-4 py-3 md:px-5 md:py-4 text-[14px] md:text-[16px] max-sm:w-[260px]"
         >
-          <span class="mr-1">开启我的 1000 小时</span>
+          <span class="mr-1">開啟我的 1000 小時</span>
 
           <img src="/portal-static/icon/arrow-right.svg" width="24" />
         </button>
@@ -43,14 +43,14 @@
         <button
           class="action secondary px-4 py-3 md:px-5 md:py-4 text-[14px] md:text-[16px] sm:ml-4 max-sm:w-[260px]"
         >
-          <span class="mr-1">体验 Enjoy App</span>
+          <span class="mr-1">體驗 Enjoy App</span>
         </button>
       </a>
     </div>
 
     <div class="mt-6 text-greyscale_4 text-[14px] md:text-[18px] total-hour">
       <span v-show="totalHour">
-        社区成员已累计练习 {{ totalHourText }} 小时
+        社群成員已累計練習 {{ totalHourText }} 小時
       </span>
     </div>
   </div>

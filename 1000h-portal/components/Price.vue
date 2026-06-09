@@ -3,10 +3,10 @@
     <div class="container m-auto">
       <div class="gap-[48px] grid grid-cols-1 md:grid-cols-2">
         <div class="intro">
-          <div class="title text-[20px] md:text-[32px]">增值体验</div>
+          <div class="title text-[20px] md:text-[32px]">增值體驗</div>
           <div class="subtitle text-[14px] md:text-[16px]">
             Enjoy App
-            会根据使用的功能按量计费，新用户消耗完初期余额后，你可以通过充值来享受更多服务
+            會根據使用的功能按量計費，新使用者消耗完初期餘額後，你可以透過充值來享受更多服務
           </div>
 
           <div class="items">
@@ -43,11 +43,11 @@ export default {
 
 <script lang="ts" setup>
 const items = ref([
-  "跟读更多的音频",
-  "跟读更多的视频",
-  "跟读更多的文章",
-  "增加与智能助手的对话次数",
-  "更多增值体验开发中",
+  "跟讀更多的音訊",
+  "跟讀更多的影片",
+  "跟讀更多的文章",
+  "增加與智慧助手的對話次數",
+  "更多增值體驗開發中",
 ]);
 </script>
 

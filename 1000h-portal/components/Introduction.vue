@@ -3,9 +3,9 @@
     <div class="container m-auto">
       <div class="top flex justify-between">
         <div class="text-greyscale_1">
-          <div class="title text-[20px] md:text-[32px]">最朴实的学习方法</div>
+          <div class="title text-[20px] md:text-[32px]">最樸實的學習方法</div>
           <div class="subtitle text-[14px] md:text-[16px]">
-            在 AI 的帮助下，我们提倡直接上手学习，不用理会繁琐的方法论
+            在 AI 的幫助下，我們提倡直接上手學習，不用理會繁瑣的方法論
           </div>
         </div>
 
@@ -52,29 +52,29 @@ export default {
 const cards = ref([
   {
     label: "Pronunciation Correction",
-    title: "AI 纠正发音",
-    subtitle: "Enjoy App 的高级 AI 引擎帮您塑造完美英・美音",
+    title: "AI 糾正發音",
+    subtitle: "Enjoy App 的高階 AI 引擎幫您塑造完美英・美音",
     bg: "/portal-static/images/bg-intro-1.png",
     colors: ["#384C6B", "#7B93AF"],
   },
   {
     label: "Studying Tracking",
-    title: "跟踪学习记录",
-    subtitle: "提供完整全面的学习记录追踪，进步一目了然",
+    title: "跟蹤學習記錄",
+    subtitle: "提供完整全面的學習記錄追蹤，進步一目瞭然",
     bg: "/portal-static/images/bg-intro-2.png",
     colors: ["#4A6760", "#7C978F"],
   },
   {
     label: "Variant Media",
-    title: "丰富的在线素材",
-    subtitle: "导入互联网语音和视频素材，用你最喜欢的内容学语言",
+    title: "豐富的線上素材",
+    subtitle: "匯入網際網路語音和影片素材，用你最喜歡的內容學語言",
     bg: "/portal-static/images/bg-intro-3.png",
     colors: ["#384C6B", "#7B93AF"],
   },
   {
     label: "Memory Enhancement",
-    title: "拓展记忆力",
-    subtitle: "使用 Enjoy App 提供的记忆系统，让学习过的内容在你脑内回荡",
+    title: "拓展記憶力",
+    subtitle: "使用 Enjoy App 提供的記憶系統，讓學習過的內容在你腦內迴盪",
     bg: "/portal-static/images/bg-intro-4.png",
     colors: ["#70584A", "#A4978D"],
   },

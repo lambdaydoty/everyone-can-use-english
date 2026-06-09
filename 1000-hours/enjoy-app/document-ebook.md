@@ -1,35 +1,35 @@
-# 本地电子书
+# 本地電子書
 
-目前暂时支持的格式有：
+目前暫時支援的格式有：
 
 - epub
 - txt
 - markdown
 
-点击左侧栏的 `文档` 进入，点击 `添加资源` 按钮，选择对应的文件即可。
+點選左側欄的 `文件` 進入，點選 `新增資源` 按鈕，選擇對應的檔案即可。
 
-![添加文档](/images/enjoy/document-add.png)
+![新增文件](/images/enjoy/document-add.png)
 
-## 文档设置
+## 文件設定
 
-点击左上角的齿轮按钮，可以进行文档设置。例如是否进行自动翻译、连续朗读等。
+點選左上角的齒輪按鈕，可以進行文件設定。例如是否進行自動翻譯、連續朗讀等。
 
-![文档设置](/images/enjoy/document-settings.png)
+![文件設定](/images/enjoy/document-settings.png)
 
-## 文档翻译
+## 文件翻譯
 
-文档每个段落顶部有翻译按钮，点击即可翻译。
+文件每個段落頂部有翻譯按鈕，點選即可翻譯。
 
-![文档翻译](/images/enjoy/document-translate.png)
+![文件翻譯](/images/enjoy/document-translate.png)
 
-## 文档播放
+## 文件播放
 
-文档每个段落顶部有播放按钮，点击即可播放。
+文件每個段落頂部有播放按鈕，點選即可播放。
 
-![文档播放](/images/enjoy/document-play.png)
+![文件播放](/images/enjoy/document-play.png)
 
-## 文档跟读
+## 文件跟讀
 
-文档朗读语音生成后，可以点击 `跟读训练` 按钮，进行跟读。
+文件朗讀語音生成後，可以點選 `跟讀訓練` 按鈕，進行跟讀。
 
-![文档跟读](/images/enjoy/document-shadow.png)
+![文件跟讀](/images/enjoy/document-shadow.png)

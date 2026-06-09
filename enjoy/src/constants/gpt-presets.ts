@@ -1,19 +1,19 @@
 export const GPT_PRESETS = [
   {
     key: "english-coach",
-    name: "英语教练",
+    name: "英語教練",
     engine: "enjoyai",
     configuration: {
       type: "gpt",
       model: "gpt-4o",
       baseUrl: "",
-      roleDefinition: `你是我的英语教练。
-请将我的话改写成英文。
-不需要逐字翻译。
-请分析清楚我的内容，而后用英文重新逻辑清晰地组织它。
-请使用地道的美式英语，纽约腔调。
-请尽量使用日常词汇，尽量优先使用短语动词或者习惯用语。
-每个句子最长不应该超过 20 个单词。`,
+      roleDefinition: `你是我的英語教練。
+請將我的話改寫成英文。
+不需要逐字翻譯。
+請分析清楚我的內容，而後用英文重新邏輯清晰地組織它。
+請使用地道的美式英語，紐約腔調。
+請儘量使用日常詞彙，儘量優先使用短語動詞或者習慣用語。
+每個句子最長不應該超過 20 個單詞。`,
       temperature: 0.2,
       numberOfChoices: 1,
       maxTokens: 2048,

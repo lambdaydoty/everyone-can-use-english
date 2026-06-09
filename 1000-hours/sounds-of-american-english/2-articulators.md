@@ -1,44 +1,44 @@
-# 发声器官
+# 發聲器官
 
-尽管说着不同的语言，人类的大脑构造和发声器官（articulators）构造却都是一样的。也正因为如此，所有的人类幼崽都具备习得地球上任何一种语言，甚至同时习得多种语言的潜能 —— 这其实还真是一个颇有些惊人却又常常被忽视甚至轻视的事实。
+儘管說著不同的語言，人類的大腦構造和發聲器官（articulators）構造卻都是一樣的。也正因為如此，所有的人類幼崽都具備習得地球上任何一種語言，甚至同時習得多種語言的潛能 —— 這其實還真是一個頗有些驚人卻又常常被忽視甚至輕視的事實。
 
-**说话**对大脑来说是一项异常复杂的活动，它大约总计需要协调差不多 100 块左右的肌肉配合着呼吸才能发出一个音素的声音[^1]，从而形成我们说出来的词汇和句子。
+**說話**對大腦來說是一項異常複雜的活動，它大約總計需要協調差不多 100 塊左右的肌肉配合著呼吸才能發出一個音素的聲音[^1]，從而形成我們說出來的詞彙和句子。
 
 <video controls width="720"> <source src="/videos/speech-form-brain-signals.mp4" type="video/mp4"></source>Your browser does not support the video tag. </video>
 
 > Brain signals precisely coordinate nearly 100 muscles to move the lips, jaw, tongue, and larynx, shaping our breath into sounds that form our words and sentences.
 
-再详细一点，我们说话的时候动用的器官实际上很多，包括但不限于：下巴（*lower jaw*）、嘴唇（*lips*）、牙齿（*teeth*）、龈脊（*alveolar ridge*）、舌尖（*tongue tip*）、舌背（*tongue roof*）、软腭（*soft palate*）、咽（*pharynx*）、喉（*larynx*）、声带（*vocal cords*）等等。
+再詳細一點，我們說話的時候動用的器官實際上很多，包括但不限於：下巴（*lower jaw*）、嘴唇（*lips*）、牙齒（*teeth*）、齦脊（*alveolar ridge*）、舌尖（*tongue tip*）、舌背（*tongue roof*）、軟顎（*soft palate*）、咽（*pharynx*）、喉（*larynx*）、聲帶（*vocal cords*）等等。
 
 ![Speech Tract (zh-CN)](/images/articulators-cn.svg)
 
-另外一个重要的方面是呼吸（*breathe*）—— 也就是说，肺也可以算作是发声器官 —— 呼吸不仅影响声音，也影响节奏；因为换气的必要，自然语流中总是存在停顿（*pause*）。
+另外一個重要的方面是呼吸（*breathe*）—— 也就是說，肺也可以算作是發聲器官 —— 呼吸不僅影響聲音，也影響節奏；因為換氣的必要，自然語流中總是存在停頓（*pause*）。
 
-以下的 X 光视频展示了一个歌手在演唱歌曲时发声器官的活动情况[^2]：
+以下的 X 光影片展示了一個歌手在演唱歌曲時發聲器官的活動情況[^2]：
 
 <video controls width="720"> <source src="/videos/articulator-movement-singing.mp4" type="video/mp4"></source>Your browser does not support the video tag. </video>
 
-某种意义上，“说话” 其实是 “**低配版唱歌**”，相对要求低一些…… 以下是朗读一些单词的时候发声器官活动情况的 3D 展示[^3]：
+某種意義上，“說話” 其實是 “**低配版唱歌**”，相對要求低一些…… 以下是朗讀一些單詞的時候發聲器官活動情況的 3D 展示[^3]：
 
 <video controls width="720"> <source src="/videos/3d-presentation.mp4" type="video/mp4"></source>Your browser does not support the video tag. </video>
 
-“说外语”，本质上来看，就是 “**以另一种方式说话**” —— 也就是说，那么多的器官要协调在一起做之前可能完全不熟悉的动作，难度可想而知。
+“說外語”，本質上來看，就是 “**以另一種方式說話**” —— 也就是說，那麼多的器官要協調在一起做之前可能完全不熟悉的動作，難度可想而知。
 
-即便是让单一器官做不一样的动作也并非易事。
+即便是讓單一器官做不一樣的動作也並非易事。
 
-比如，你可以试试舌头。练一下就知道了，有意识地控制舌头是相当困难的。虽然我们的舌头事实上很灵活，几乎可以与我们的手相媲美，可问题在于，它处于一个我们用眼睛观察不到的部位 —— 如果没看过 X 光视频或者 3D 展示，我们可能都不知道自己的舌头究竟是怎样的形状 —— 学也好练也罢，相对于手多出了一整个维度的困难。
+比如，你可以試試舌頭。練一下就知道了，有意識地控制舌頭是相當困難的。雖然我們的舌頭事實上很靈活，幾乎可以與我們的手相媲美，可問題在於，它處於一個我們用眼睛觀察不到的部位 —— 如果沒看過 X 光影片或者 3D 展示，我們可能都不知道自己的舌頭究竟是怎樣的形狀 —— 學也好練也罷，相對於手多出了一整個維度的困難。
 
-再比如，控制唇形也很难，虽然嘴唇通过照镜子是可以看到的。有两个元音，被称作 “圆元音”（*round vowels*）—— <span class="pho">ɔ</span> 和 <span class="pho">u</span>，需要把嘴唇略微缩作圆形，并且 <span class="pho">u</span> 还得嘴唇略微凸出…… 这好像并不难，可想要真正熟练，并且永远不出错，就没那么简单了。
+再比如，控制唇形也很難，雖然嘴唇透過照鏡子是可以看到的。有兩個母音，被稱作 “圓母音”（*round vowels*）—— <span class="pho">ɔ</span> 和 <span class="pho">u</span>，需要把嘴唇略微縮作圓形，並且 <span class="pho">u</span> 還得嘴唇略微凸出…… 這好像並不難，可想要真正熟練，並且永遠不出錯，就沒那麼簡單了。
 
-不过，为了练好美式英语，你可能需要格外注意的发声器官其实只有两个，都是**舌头**（*tongue*）：
+不過，為了練好美式英語，你可能需要格外注意的發聲器官其實只有兩個，都是**舌頭**（*tongue*）：
 
-> * **舌尖**（适应若干个辅音发声的新的舌尖起始位置）
-> * **舌背**（需要学习一个将它后缩的动作以便发出儿化音）
+> * **舌尖**（適應若干個子音發聲的新的舌尖起始位置）
+> * **舌背**（需要學習一個將它後縮的動作以便發出兒化音）
 
-凡事都不容易，但，只要肯练，谁都可以掌握。
+凡事都不容易，但，只要肯練，誰都可以掌握。
 
 [^1]: https://www.youtube.com/watch?v=YHFx6O5x5Hw
 [^2]: https://www.youtube.com/watch?v=2N5q85G3ydk
-[^3]: https://www.youtube.com/watch?v=wYwk07QM4rc —— 这是 [Speech Graphics](https://www.speech-graphics.com) 为 [Saundz app](https://soundz.pro/)（[iOS](https://apps.apple.com/us/app/soundz/id6448163324)/Android 已无可用链接）开发的视频展示片段。
+[^3]: https://www.youtube.com/watch?v=wYwk07QM4rc —— 這是 [Speech Graphics](https://www.speech-graphics.com) 為 [Saundz app](https://soundz.pro/)（[iOS](https://apps.apple.com/us/app/soundz/id6448163324)/Android 已無可用連結）開發的影片展示片段。
 
 ![vowels-mouth-ɔ-u](/images/vowels-mouth-ɔ-u.svg)

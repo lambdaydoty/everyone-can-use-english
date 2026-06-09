@@ -19,7 +19,7 @@ export const LanguageSettings = () => {
       <div className="">
         <div className="mb-2">{t("language")}</div>
         <div className="text-sm text-muted-foreground mb-2">
-          {language === "en" ? "English" : "简体中文"}
+          {language === "en" ? "English" : "簡體中文"}
         </div>
       </div>
 
@@ -33,7 +33,7 @@ export const LanguageSettings = () => {
           >
             <SelectTrigger className="text-xs">
               <SelectValue>
-                {language === "en" ? "English" : "简体中文"}
+                {language === "en" ? "English" : "簡體中文"}
               </SelectValue>
             </SelectTrigger>
             <SelectContent>
@@ -41,7 +41,7 @@ export const LanguageSettings = () => {
                 English
               </SelectItem>
               <SelectItem className="text-xs" value="zh-CN">
-                简体中文
+                簡體中文
               </SelectItem>
             </SelectContent>
           </Select>

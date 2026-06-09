@@ -29,7 +29,7 @@ export const BanduLoginButton = () => {
           variant="outline"
           size="icon"
           data-tooltip-id="global-tooltip"
-          data-tooltip-content="学升"
+          data-tooltip-content="學升"
           className="w-10 h-10 rounded-full"
         >
           <img
@@ -45,7 +45,7 @@ export const BanduLoginButton = () => {
         aria-describedby={undefined}
       >
         <SheetHeader>
-          <SheetTitle className="sr-only">学升登录</SheetTitle>
+          <SheetTitle className="sr-only">學升登入</SheetTitle>
         </SheetHeader>
         <div className="w-full h-full flex">
           <div className="m-auto">{open && <BanduLoginForm />}</div>

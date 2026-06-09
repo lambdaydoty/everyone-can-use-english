@@ -5,7 +5,7 @@
         <div class="text-greyscale_1">
           <div class="title text-[20px] md:text-[32px]">特色功能</div>
           <div class="subtitle text-[14px] md:text-[16px]">
-            你能想到的，只要是对学习有帮助的功能，我们都实现了。
+            你能想到的，只要是對學習有幫助的功能，我們都實現了。
           </div>
         </div>
 
@@ -43,38 +43,38 @@ export default {
 const features = ref([
   {
     icon: "/portal-static/images/head-phone.png",
-    title: "音频可视化跟读",
-    subtitle: "导入的音频，我们会进行解析，提供可视化跟读",
+    title: "音訊視覺化跟讀",
+    subtitle: "匯入的音訊，我們會進行解析，提供視覺化跟讀",
   },
   {
     icon: "/portal-static/images/camera.png",
-    title: "视频可视化跟读",
-    subtitle: "既然音频可以跟读，视频当然也可以",
+    title: "影片視覺化跟讀",
+    subtitle: "既然音訊可以跟讀，影片當然也可以",
   },
   {
     icon: "/portal-static/images/lang.png",
-    title: "文章阅读",
-    subtitle: "导入各类外语文章，进行解析阅读",
+    title: "文章閱讀",
+    subtitle: "匯入各類外語文章，進行解析閱讀",
   },
   {
     icon: "/portal-static/images/robot.png",
-    title: "AI 自然对话",
-    subtitle: "最称职的人工智能外语陪练",
+    title: "AI 自然對話",
+    subtitle: "最稱職的人工智慧外語陪練",
   },
   {
     icon: "/portal-static/images/note.png",
-    title: "重温笔记",
-    subtitle: "学习遇到难点？先添加笔记，再巩固复习",
+    title: "重溫筆記",
+    subtitle: "學習遇到難點？先新增筆記，再鞏固複習",
   },
   {
     icon: "/portal-static/images/book.png",
-    title: "词典助记",
-    subtitle: "学习遇到生词？添加到生词本，再巩固复习",
+    title: "詞典助記",
+    subtitle: "學習遇到生詞？新增到生詞本，再鞏固複習",
   },
   {
     icon: "/portal-static/images/cham.png",
-    title: "社区竞赛",
-    subtitle: "每日、每周、每月都有人跟你一起学习进步",
+    title: "社群競賽",
+    subtitle: "每日、每週、每月都有人跟你一起學習進步",
   },
 ]);
 </script>
